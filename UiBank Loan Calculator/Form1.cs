@@ -70,5 +70,6 @@ namespace UiBank_Loan_Calculator
 
             }
         }
+
     }
 }
