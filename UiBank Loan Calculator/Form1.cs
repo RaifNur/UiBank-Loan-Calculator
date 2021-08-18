@@ -40,7 +40,7 @@ namespace UiBank_Loan_Calculator
                 age = Convert.ToInt32(txt_age.Text);
                 loanamount = Convert.ToDouble(txt_loanamount.Text);
                 yearlyincome = Convert.ToDouble(txt_yearlyincome.Text);
-                loanterm = Convert.ToInt32(cmb_loanterm.SelectedItem);
+                loanterm = Convert.ToInt32(cmb_loanterm.Text);
                 emailaddress = txt_email.Text;
 
                 int maxterm = 60 - age;
