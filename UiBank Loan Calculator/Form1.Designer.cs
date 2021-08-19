@@ -71,7 +71,7 @@ namespace UiBank_Loan_Calculator
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.Red;
+            this.label1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.label1.Location = new System.Drawing.Point(294, 96);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(199, 21);
